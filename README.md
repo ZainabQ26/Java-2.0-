@@ -1,4 +1,4 @@
-# 📚 Java OOP - Homework 2
+# 📚 Java OOP
 
 Intermediate Java projects focusing on Object-Oriented Programming, data structures, and algorithm implementation.
 
