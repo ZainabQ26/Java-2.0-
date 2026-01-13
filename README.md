@@ -23,4 +23,4 @@ Intermediate Java projects focusing on Object-Oriented Programming, data structu
 - IntelliJ IDEA
 
 ## 💬 Contact
-**Zainab Qazi** - [GitHub](https://github.com/zozo080212) - [LinkedIn](https://www.linkedin.com/in/zainab--qazi/)
+**Zainab Qazi** - [GitHub](https://github.com/ZainabQ26) - [LinkedIn](https://www.linkedin.com/in/zainab--qazi/)
